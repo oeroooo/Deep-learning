@@ -1,1 +1,2 @@
 # Deep-learning
+This repository contains the code for a deep learning coursework at Imperial College. In this project, we want to predict the midprice change direction of a stock (column 1, a binary variable where 0 represents down and 1 represents up) using 21 features including bid/ask price and buyer/seller volume for diﬀerent limit order book level (column 2-17). Also, we have the five previous midprice change direction encoded in the same manner as the label (column 18-22). Hence, we would predict the binary label Y using the features X.
